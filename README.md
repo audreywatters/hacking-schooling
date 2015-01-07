@@ -1,4 +1,4 @@
 hacking-schooling
 =================
 
-Hacking Schooling
+This repo runs the project Hacking Schooling
